@@ -1,2 +1,2 @@
 # remove-image-bg
-A python script to remove images background .
+A python script to remove images background 
